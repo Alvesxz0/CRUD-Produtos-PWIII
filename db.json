@@ -7,6 +7,14 @@
       "ativo": true,
       "data_criacao": "2023-10-01",
       "data_atualizacao": "2023-10-04"
+    },
+    {
+      "id": "e041",
+      "nome": "Vinícius Viana",
+      "preco": 10000000000,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
     }
   ]
 }
